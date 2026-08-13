@@ -1,0 +1,6 @@
+tags,visible,lon,lat,version,timestamp,id,changeset,depot,industrial,landuse,military,residential,osm_type,basin,construction,farmyard,grass,port,railway
+"{""visible"":false,""religion"":""christian""}",,,,2,1423221542,245777095,,,,cemetery,,,way,,,,,,
+"{""visible"":false,""name"":""Muslim Cemetery"",""religion"":""muslim""}",,,,3,1600364147,322227653,,,,cemetery,,,way,,,,,,
+"{""visible"":false}",,,,3,1731468767,326493241,,,,cemetery,,,way,,,,,,
+"{""visible"":false}",,,,1,1524704438,583602822,,,,cemetery,,,way,,,,,,
+"{""visible"":false,""name"":""Christian cemetery"",""religion"":""christian""}",,,,3,1736182093,1306574639,,,,cemetery,,,way,,,,,,

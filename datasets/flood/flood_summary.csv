@@ -1,0 +1,4 @@
+Risk,Distance_m,Description
+High,100,Within 100m of water body
+Medium,300,Within 300m of water body
+Low,500,Within 500m of water body

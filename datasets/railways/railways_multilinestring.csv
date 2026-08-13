@@ -1,0 +1,350 @@
+construction,disused,light_rail,monorail,railway,station,subway,id,timestamp,version,tags,osm_type
+,,,,rail,,,29325774,1662018372,26,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29340512,1738577702,19,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29361921,1594559218,20,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""note"":""The Operator of the railway line is Indian Railways"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362763,1762770412,45,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362764,1735817626,8,"{""visible"":false,""bridge"":""yes"",""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""layer"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362789,1767338251,27,"{""visible"":false,""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,29362792,1745849234,6,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362868,1684192602,9,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,29362875,1684192602,8,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,29362887,1722420788,7,"{""visible"":false,""bridge"":""yes"",""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362888,1722420788,9,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29362911,1731037871,18,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,abandoned,,,29363001,1638038881,4,"{""visible"":false}",way
+,,,,rail,,,29373666,1740997891,14,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29373673,1722420788,6,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29383312,1745849234,8,"{""visible"":false,""gauge"":""1676"",""service"":""spur""}",way
+,,,,rail,,,29384586,1722420788,13,"{""visible"":false,""electrified"":""contact_line"",""embankment"":""yes"",""frequency"":""50"",""gauge"":""1676"",""operator"":""Indian Railways"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,29493003,1722420788,16,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,62333014,1722421900,9,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,62409950,1620934297,10,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,62410026,1620934297,8,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,62518641,1722420788,7,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""operator"":""Indian Railways"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,104568374,1745849234,21,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,104568393,1745849234,7,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,104569304,1745849234,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,141200056,1783147977,18,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,178823754,1738577702,14,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,178823757,1749635139,29,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,185804945,1745849234,9,"{""visible"":false,""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,227373877,1745849234,23,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,227383047,1740997891,15,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,227383051,1745849234,10,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,227383052,1627766176,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""layer"":""1"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,227383053,1745849234,13,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,227383054,1612278861,8,"{""visible"":false,""gauge"":""1676"",""service"":""spur""}",way
+,,,,rail,,,227385816,1762770412,41,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,227385817,1662018372,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,229021145,1734449794,5,"{""visible"":false,""service"":""siding""}",way
+,,,,rail,,,326681683,1745849234,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,326733228,1627766176,6,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""layer"":""1"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,326848213,1745849234,8,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,326848221,1745849234,5,"{""visible"":false,""gauge"":""1676"",""service"":""spur""}",way
+,,,,rail,,,326854337,1423288029,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""note"":""The Operator of the railway line is Indian Railways"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,326854338,1588890569,11,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,326854363,1662018372,6,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,327575217,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,424053770,1722420788,7,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,456784620,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839559,1627766176,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839560,1627766176,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,519839564,1504073336,1,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839566,1627766176,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,519839571,1627766176,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839572,1627766176,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839575,1627766176,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839577,1627766176,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839584,1627766176,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519839591,1706602175,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,519839592,1627766176,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,519839593,1504073338,1,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519849695,1745849234,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""service"":""yard"",""voltage"":""25000""}",way
+,,,,rail,,,519869092,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519869094,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,disused,,,519869096,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926308,1588890569,2,"{""visible"":false,""gauge"":""1676""}",way
+,,,,rail,,,519926309,1662018372,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,519926310,1706955297,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926312,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926314,1588890569,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926317,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926320,1588890569,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519926325,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926328,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926335,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,519926341,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,519926345,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,520037329,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520037334,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520037336,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520116812,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520116818,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520116821,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,520116823,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,559508820,1684192602,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,559508824,1684192602,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,572498294,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,572498295,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,572498297,1745849234,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,subway,,,588756998,1733047023,14,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,588757000,1733047023,10,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""layer"":""-1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""tunnel"":""yes"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,588757001,1733047023,13,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,rail,,,602995034,1745849234,5,"{""visible"":false,""service"":""siding""}",way
+,,,,rail,,,602995036,1734449797,5,"{""visible"":false}",way
+,,,,rail,,,609570622,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570623,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570624,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570625,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570626,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570627,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570628,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570629,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570631,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570633,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570635,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570637,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570641,1745849234,9,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570643,1745849234,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570646,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570652,1745849234,7,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,609570660,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570662,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,609570664,1745849234,7,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570666,1588890569,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570668,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570670,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570674,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,609570679,1588890569,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489928,1588890569,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489930,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489932,1745849234,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489933,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489934,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489935,1588890569,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489936,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489938,1745849234,5,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489939,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489941,1609609098,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489942,1609612848,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489943,1588890569,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489944,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489945,1588890569,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489948,1615851519,6,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628489949,1588890569,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,628489950,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,628548043,1745849234,5,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,628548044,1745849234,7,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,628548046,1745849234,6,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,661930370,1662018372,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,661930371,1745849234,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,661930372,1588890569,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,661972263,1635966417,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,661972264,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,661972265,1745849234,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,685087768,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087769,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087770,1555860837,1,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087771,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087772,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087774,1555860837,1,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087775,1555860837,1,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,685087776,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+,,,,subway,,,686304389,1733047023,9,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,686304390,1733047023,8,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,686304391,1733047023,6,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,686304392,1733818296,7,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,686304394,1733047023,9,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,rail,,,699115446,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,715551372,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,715551373,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,760592269,1745849234,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,760592270,1666808238,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,760592273,1745849234,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,760592274,1745849234,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,801418241,1745849234,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,801418242,1588890569,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,801418243,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,801418244,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,801418250,1588890569,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,801418271,1588890569,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,subway,,,823921078,1734449797,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921079,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921080,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921081,1735743452,7,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921082,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921083,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921084,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921085,1735743452,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921086,1735743111,7,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921087,1734449797,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921088,1735743615,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921089,1735743615,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921090,1735743615,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921091,1735743881,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921092,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921093,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921094,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921095,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921096,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921097,1735743881,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921098,1735745099,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921099,1735745099,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921100,1735745099,6,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921101,1735745244,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921102,1735745244,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921103,1735745244,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921104,1735745442,7,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921105,1735745442,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921106,1735745442,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921107,1735745442,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921108,1735745442,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,823921109,1735745442,9,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,rail,,,825392103,1745849234,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,825392106,1745849234,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,825397664,1749635003,5,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825397665,1745849234,4,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825404099,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825404100,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825404102,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825404104,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,825404105,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,825404106,1745849234,2,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""2"",""service"":""yard""}",way
+,,,,rail,,,825404107,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,abandoned,,,825404108,1745851925,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""voltage"":""25000""}",way
+,,,,abandoned,,,825404109,1594559218,1,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main""}",way
+,,,,rail,,,825404110,1745849234,3,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,825404111,1745849234,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""note"":""The Operator of the railway line is Indian Railways"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,subway,,,847089554,1733047023,4,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""service"":""yard"",""start_date"":""2019-03-04"",""voltage"":""750""}",way
+,,,,subway,,,847089555,1733047023,4,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""service"":""yard"",""start_date"":""2019-03-04"",""voltage"":""750""}",way
+,,,,subway,,,847089556,1733047023,5,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""service"":""yard"",""start_date"":""2019-03-04"",""voltage"":""750""}",way
+,,,,subway,,,847089576,1735743111,5,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,rail,,,847131178,1614952608,3,"{""visible"":false,""service"":""spur""}",way
+,,,,rail,,,847131179,1614952608,4,"{""visible"":false,""service"":""spur""}",way
+rail,,,,construction,,,849474581,1782564375,40,"{""visible"":false,""bridge"":""yes"",""check_date"":""2023-04-12"",""construction:electrified"":""contact_line"",""construction:frequency"":""50"",""construction:railway"":""rail"",""construction:voltage"":""25000"",""gauge"":""1435"",""highspeed"":""yes"",""layer"":""3"",""maxspeed"":""320"",""name"":""Mumbai\u2013Ahmedabad high-speed rail (under construction)"",""name:de"":""Schnellfahrstrecke Mumbai\u2013Ahmedabad"",""name:en"":""Mumbai\u2013Ahmedabad High-speed Rail"",""name:zh"":""\u5B5F\u4E70\u2013\u827E\u54C8\u8FC8\u8FBE\u5DF4\u5FB7\u9AD8\u94C1"",""name:zh-Hant"":""\u5B5F\u8CB7\u2013\u4E9E\u7F8E\u9054\u5DF4\u5FB7\u9AD8\u9435"",""passenger_lines"":""2"",""start_date"":""2027"",""usage"":""main"",""wikipedia"":""en:Mumbai\u2013Ahmedabad high-speed rail corridor""}",way
+,,,,rail,,,851734213,1744469230,4,"{""visible"":false}",way
+,,,,rail,,,851734214,1744469230,4,"{""visible"":false}",way
+,,,,rail,,,873284449,1745849234,3,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,873284471,1734449797,4,"{""visible"":false,""service"":""siding""}",way
+,,,,rail,,,901460997,1745849234,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,901897467,1684192602,2,"{""visible"":false,""gauge"":""1676"",""service"":""spur""}",way
+,,,,rail,,,903021320,1738577702,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,903024658,1738577702,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""historic:gauge"":""1000"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,subway,,,911898474,1749312959,9,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Violet Line"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,911898475,1749312959,12,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""start_date"":""2024-09-17""}",way
+,,,,rail,,,916907674,1615711503,1,"{""visible"":false}",way
+,,,,rail,,,916907675,1722420696,2,"{""visible"":false,""service"":""siding""}",way
+,,,,subway,,,917835846,1735743111,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,rail,,,969310821,1745849234,7,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1006803617,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803618,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803619,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803620,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803621,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803622,1711986177,3,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1006803623,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,1006803624,1711964819,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,subway,,,1050722701,1733047023,3,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1050722702,1733047023,3,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1050722703,1733047023,4,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1050722705,1733047023,2,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1050722706,1733818296,6,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1101021712,1733047023,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""layer"":""-1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""tunnel"":""yes"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1101021714,1749312959,7,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1101021715,1749312959,7,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""2"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1101021716,1733047023,3,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1101028011,1735746303,3,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""service"":""yard"",""start_date"":""2022-09-30""}",way
+,,,,subway,,,1101028013,1664963942,1,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""service"":""crossover""}",way
+,,,,subway,,,1101028016,1735746303,4,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""service"":""yard"",""start_date"":""2022-09-30""}",way
+,,,,subway,,,1101028018,1725538819,2,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1""}",way
+,,,,subway,,,1101028019,1749312959,10,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""name"":""Red Line, Ahmedabad Metro"",""start_date"":""2022-09-30""}",way
+,,,,subway,,,1101058045,1772143200,7,"{""visible"":false,""bridge"":""viaduct"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""name"":""Red Line, Ahmedabad Metro"",""start_date"":""2022-09-30""}",way
+,,,,rail,,,1107167560,1722421900,2,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,1107167562,1722421900,2,"{""visible"":false,""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,1107167570,1722421900,2,"{""visible"":false,""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,rail,,,1107167587,1766996904,5,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1107167588,1766996904,4,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1107167596,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,1107179899,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1107179901,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,rail,,,1107179902,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+rail,,,,construction,,,1125530000,1745849234,5,"{""visible"":false,""bridge"":""yes"",""check_date"":""2023-04-12"",""construction:electrified"":""contact_line"",""construction:frequency"":""50"",""construction:railway"":""rail"",""construction:voltage"":""25000"",""gauge"":""1435"",""highspeed"":""yes"",""layer"":""3"",""maxspeed"":""320"",""name"":""Mumbai\u2013Ahmedabad high-speed rail (under construction)"",""name:de"":""Schnellfahrstrecke Mumbai\u2013Ahmedabad"",""name:en"":""Mumbai\u2013Ahmedabad High-speed Rail"",""name:zh"":""\u5B5F\u4E70\u2013\u827E\u54C8\u8FC8\u8FBE\u5DF4\u5FB7\u9AD8\u94C1"",""name:zh-Hant"":""\u5B5F\u8CB7\u2013\u4E9E\u7F8E\u9054\u5DF4\u5FB7\u9AD8\u9435"",""opening_date"":""2027"",""passenger_lines"":""2"",""start_date"":""2027"",""usage"":""main"",""wikipedia"":""en:Mumbai\u2013Ahmedabad high-speed rail corridor""}",way
+,,,,rail,,,1173176531,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1173176532,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""2"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1173176533,1722420788,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""passenger_lines"":""1"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,rail,,,1173176538,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,1173176541,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,1173176546,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,1173176548,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""crossover"",""voltage"":""25000""}",way
+,,,,rail,,,1173176551,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,1173176552,1684192602,1,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""service"":""siding"",""voltage"":""25000""}",way
+,,,,rail,,,1194712613,1745849234,2,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,subway,,,1197819227,1733047023,3,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""2"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1197819228,1733047023,2,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""2"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1198134741,1749312959,6,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Violet Line"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1198134742,1749312959,10,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1198208641,1749312959,4,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1198208642,1749312959,4,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,rail,,,1268112306,1711964819,1,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,1268112309,1711964819,1,"{""visible"":false,""gauge"":""1676"",""service"":""siding""}",way
+,,,,platform,,,1304803737,1722420696,1,"{""visible"":false}",way
+,,,,platform,,,1304803738,1722420696,1,"{""visible"":false}",way
+,,,,rail,,,1314755341,1745849234,2,"{""visible"":false,""electrified"":""contact_line"",""frequency"":""50"",""gauge"":""1676"",""usage"":""main"",""voltage"":""25000""}",way
+,,,,subway,,,1317340807,1733047023,2,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Line 3:\u00A0GIFT City-GNLU: 5.416 km"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1317340808,1733047023,2,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Line 3:\u00A0GNLU\u2013GIFT City: 5.416 km"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1317340809,1749312959,5,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Red Line, Ahmedabad Metro"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1317340810,1749312959,5,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Red Line, Ahmedabad Metro"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1339195279,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195280,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195281,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195282,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195283,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195284,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195285,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195286,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195287,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195288,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195289,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195290,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195291,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195292,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195293,1734449797,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195294,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195295,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195296,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195297,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195298,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195299,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195300,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195301,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195302,1735747265,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195303,1735747265,4,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195304,1735746303,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195305,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195333,1735745691,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195334,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195335,1735746303,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""service"":""yard""}",way
+,,,,subway,,,1339195336,1735747265,4,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""layer"":""3"",""service"":""yard""}",way
+,,,,subway,,,1339195337,1735745691,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195338,1735745691,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195339,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195340,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195341,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195342,1735746303,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1339195350,1735745442,3,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1340959904,1733640363,1,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""name"":""Red Line, Ahmedabad Metro"",""start_date"":""2024-09-17""}",way
+,,,,subway,,,1341271776,1749312959,2,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1341271777,1749312959,2,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2022-09-30"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1341479434,1733818296,1,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1341479435,1733818296,1,"{""visible"":false,""bridge"":""yes"",""electrified"":""rail"",""gauge"":""1435"",""layer"":""1"",""name"":""Blue Line, Ahmedabad Metro"",""start_date"":""2019-03-04"",""usage"":""main"",""voltage"":""750""}",way
+,,,,subway,,,1342955747,1735747265,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1342955750,1734449789,1,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard"",""tunnel"":""building_passage""}",way
+,,,,subway,,,1342955755,1734449789,1,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard"",""tunnel"":""building_passage""}",way
+,,,,rail,,,1342955756,1745849234,2,"{""visible"":false,""service"":""siding""}",way
+,,,,subway,,,1342955760,1735746303,2,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard""}",way
+,,,,subway,,,1342955763,1734449789,1,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard"",""tunnel"":""building_passage""}",way
+,,,,subway,,,1342955765,1734449789,1,"{""visible"":false,""electrified"":""rail"",""gauge"":""1435"",""service"":""yard"",""tunnel"":""building_passage""}",way
+,,,,subway,,,1393067631,1749312959,1,"{""visible"":false,""bridge"":""viaduct"",""layer"":""1"",""start_date"":""2024-09-17""}",way
+,,,,rail,,,1394136386,1749635003,1,"{""visible"":false,""gauge"":""1676"",""service"":""yard""}",way
+,,,,rail,,,1463638294,1767338251,1,"{""visible"":false,""gauge"":""1676"",""name"":""Western Railway Line"",""passenger_lines"":""1"",""usage"":""branch""}",way
+,,,,proposed,,,1482920013,1772032891,1,"{""visible"":false,""colour"":""purple"",""name"":""Purple Line Extension"",""network"":""Ahmedabad Metro""}",way
