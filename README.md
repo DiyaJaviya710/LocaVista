@@ -301,45 +301,6 @@ cd LocaVista
 | `POST` | `/api/history/` | Save analysis report to user history |
 | `DELETE` | `/api/history/:id/` | Remove a saved report |
 
----
-
-### Sample Request: Predict Site Suitability
-```bash
-curl -X POST http://127.0.0.1:8000/api/predict/ \
-  -H "Content-Type: application/json" \
-  -d '{
-    "latitude": 23.0225,
-    "longitude": 72.5714,
-    "use_case": "restaurant",
-    "restaurant_type": "cafe"
-  }'
-```
-
-#### Sample Response:
-```json
-{
-  "status": "success",
-  "score": 87.19,
-  "rating": "Excellent",
-  "confidence": 0.94,
-  "nearest_features": {
-    "nearest_road": "Ashram Road",
-    "nearest_road_dist_m": 42.5,
-    "nearest_hospital": "Dr. Manoj Tank E.N.T. Hospital",
-    "nearest_bank": "State Bank of India Ahmedabad Office",
-    "nearest_bus_stop": "Lal Darwaja AMTS Bus Stop"
-  },
-  "metrics": {
-    "population_density": 88.4,
-    "transit_accessibility": 92.0,
-    "flood_risk": "Low",
-    "commercial_zoning_score": 95.0,
-    "competitor_density": 64.0
-  }
-}
-```
-
----
 
 ## 📊 Machine Learning & GIS Pipeline
 
@@ -392,28 +353,6 @@ EMAIL_HOST_PASSWORD=your_app_specific_password
 DEFAULT_FROM_EMAIL=LocaVista AI <your_email@gmail.com>
 ```
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve LocaVista:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your Changes**:
-   ```bash
-   git commit -m "Add AmazingFeature"
-   ```
-4. **Push to the Branch**:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
----
 
 
 
